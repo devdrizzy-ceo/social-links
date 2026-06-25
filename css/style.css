@@ -84,17 +84,27 @@
     
  }
 
+ footer{
+   margin-top: 3em;
+   color: white;
+ }
+
+ .attribution a{
+   color: aqua;
+ }
+
  @media (min-width: 375px) and (max-width:768px) {
 
     body{
-        padding: 0;
+        padding: 8em 0em ;
         margin-bottom: 0;
         height: auto;
     }
 
     main {
-        margin-bottom: 0;
+        margin: auto;
         padding-bottom: 40px;
+        max-width: 25em;
     }
     
 
