@@ -22,6 +22,7 @@
     align-items: center;
     justify-content: center;
     padding: 10% ;
+    max-width: 25em;
  }
 
  .jessica-image img{
