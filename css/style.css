@@ -96,7 +96,7 @@
  @media (min-width: 375px) and (max-width:768px) {
 
     body{
-        padding: 8em 0em ;
+        padding: 8em 2em ;
         margin-bottom: 0;
         height: auto;
     }
